@@ -1,5 +1,7 @@
 
-### Hi there 👋 My name is Zahra Taheri
+### Hi there 👋 
+
+### My name is Zahra Taheri
 
 #### 🌱 I am currently a postdoctoral researcher in data science at Shahid Beheshti University. 
 - I obtained an MSc in applied mathematics in the coding and information theory field at the IUT, and 
