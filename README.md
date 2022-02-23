@@ -3,11 +3,9 @@
 
 ### 	:slightly_smiling_face: My name is Zahra Taheri.
 
-#### 🌱 I am a postdoctoral researcher in data science at Shahid Beheshti University. 
-    
-    I obtained an MSc in applied mathematics in the coding and information theory field at the IUT, and 
-
-    a Ph.D. in pure mathematics in the algebraic graph theory field at the UI. 
+#### 🌱 I am a postdoctoral researcher in data science at Shahid Beheshti University.    
+     
+        I obtained an M.Sc. in applied mathematics, and a Ph.D. in pure mathematics. 
     
 #### :heart_on_fire: I am PASSIONATE about `programming` and `artificial intelligence` and I would like to use my skills in math to solve real-world problems. 
 
