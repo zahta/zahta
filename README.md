@@ -11,4 +11,4 @@
 
 #### 🔭 As a member of [Machine Learning and Graph Mining Lab](https://gmlg.github.io/), I am currently working on some applications of `graph neural networks` in molecular property prediction and drug discovery.
 
-#### :open_book: I am learning `reinforcement learning` and its application in molecule generation for drug design.
+#### :open_book: Also, I am learning `reinforcement learning` and its application in molecule generation for drug design.
