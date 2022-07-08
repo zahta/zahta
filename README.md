@@ -3,15 +3,13 @@
 
 ### 	:slightly_smiling_face: My name is Zahra Taheri.
 
-#### 🌱 I am a postdoctoral researcher in `data science` at Shahid Beheshti University.    
-     
-        I obtained an M.Sc. in applied mathematics, and a Ph.D. in pure mathematics. 
+#### 🌱 I received my Ph.D. in `Mathematics` in 2020. Then as a postdoctoral fellow, I collaborated on a project by Professor [Hossein Hajiabolhassan](https://github.com/hhaji) at the Data Science Center of Shahid Beheshti University. I work as a research fellow at Machine Learning and Graph Mining Lab. 
     
 #### :heart_on_fire: I am PASSIONATE about `programming` and `artificial intelligence` and I would like to use my skills in `math` to solve real-world problems. 
 
 #### 🔭 As a member of [Machine Learning and Graph Mining Lab](https://gmlg.github.io/), I am currently working on some applications of `graph neural networks` in molecular property prediction and drug discovery.
 
-#### :open_book: Also, I am studying `reinforcement learning` and its application in molecule generation for drug design.
+#### :open_book: My current research interests focus on deep learning, reinforcement learning, graph neural networks, cheminformatics, and drug design.
 
 <h3>Where to find me</h3>
 
